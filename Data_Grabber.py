@@ -7,6 +7,7 @@
 
 '''
 Hey Coworker/Anyone Else Reading This:
+
 This should do what you asked for, downloading and archiving all files over the course of a ~11 hour period, and then exiting all
 programs involved before shutting down the workstation, all via simulated mouse-and-key usage.
 To run this script, have it in a single JuPyteR Notebook cell in a Chrome window maximized on the right-hand side of your screen,
@@ -15,6 +16,7 @@ the SuperBizServices tab for the logistics reporting app open, to the Logistics 
 delivery rate and shipping manifest validity. Leave it on the DELIVERY RATE tab. Have nothing but Chrome, Anaconda, and JuPyteR
 Notebook open. Set the shipment logistics field to "ALL SHIPMENTS", and make sure that initial weeks are set in both the DELIVERY
 RATE and MANIFEST VALIDITY tabs. Also might as well clear the downloads folder before running it.
+
 If for some reason this script is pressed into service in some bleak, distant future: Verify that clicks still occur where needed,
 as the script is sensitive to changing out displays and it's also possible that the SuperBizServices logistics site has changed.
 '''
