@@ -245,4 +245,4 @@ click(295,1008) # Issue a shutdown command.
 time.sleep(.05) # Move quickly to exit JuPyter NB
 for i in range(10):
     click(1027, 182)
-time.sleep(.05)
+    time.sleep(.05)
